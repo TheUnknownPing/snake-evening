@@ -12,8 +12,8 @@ The classic Snake game in your terminal made in just one evening. Do whatever yo
 ## Building
 ### UNIX-like
 Download source code.\
-```$ git clone SOURCE```\
-```$ cd SOURCE-name```
+```$ git clone https://github.com/TheUnknownPing/snake-evening.git```\
+```$ cd snake-evening```
 
 Compile it using gcc.\
 ```$ gcc snake.c -o snake -lpthread```
